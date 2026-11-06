@@ -1,0 +1,17 @@
+/usr/lib/openssh/ssh-keysign
+/usr/lib/xorg/Xorg.wrap
+/usr/lib/polkit-1/polkit-agent-helper-1
+/usr/lib/dbus-1.0/dbus-daemon-launch-helper
+/usr/bin/umount
+/usr/bin/newgrp
+/usr/bin/fusermount3
+/usr/bin/su
+/usr/bin/sudo
+/usr/bin/chfn
+/usr/bin/passwd
+/usr/bin/chsh
+/usr/bin/pkexec
+/usr/bin/gpasswd
+/usr/bin/ntfs-3g
+/usr/bin/mount
+/usr/sbin/pppd
