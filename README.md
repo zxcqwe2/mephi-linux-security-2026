@@ -1,16 +1,16 @@
 Ниже представлено описание представленных файлов
 
-passwd - копия /etc/passwd
-shadow - копия /etc/shadow
-group - копия /etc/group
-suid-files.out - вывод всех файлов с битом set-UID
-monitoring.out - вывод мониторинга процессов: процессы с euid=0 и реальным UID обычного пользователя
-stat.out - вывод stat для /home/user1 и для утилит testcat (set-UID) и testchown (capabilities)
-getcap.out - вывод getcap /home/user1/mychown 
-sudoers - копия /etc/sudoers
-user1-time - копия правила из /etc/sudoers.d/: user1 разрешено запускать от root date и timedatectl для изменения системного времени
-history.out - история команд пользователя fedor
-history_user1.out - история команд пользователя user1
+passwd - копия /etc/passwd, 
+shadow - копия /etc/shadow, 
+group - копия /etc/group, 
+suid-files.out - вывод всех файлов с битом set-UID, 
+monitoring.out - вывод мониторинга процессов: процессы с euid=0 и реальным UID обычного пользователя, 
+stat.out - вывод stat для /home/user1 и для утилит testcat (set-UID) и testchown (capabilities), 
+getcap.out - вывод getcap /home/user1/mychown, 
+sudoers - копия /etc/sudoers, 
+user1-time - копия правила из /etc/sudoers.d/: user1 разрешено запускать от root date и timedatectl для изменения системного времени, 
+history.out - история команд пользователя fedor, 
+history_user1.out - история команд пользователя user1, 
 
 
 Было выполнено следующее:
